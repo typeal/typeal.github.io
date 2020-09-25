@@ -1,6 +1,13 @@
-| layout | title            | subtitle     | date       | author | header-img               | catalog | tags |
-| ------ | ---------------- | ------------ | ---------- | ------ | ------------------------ | ------- | ---- |
-| post   | ReactiveObjC笔记 | just a test! | 2020-03-08 | Ash    | img/post-bg-ios9-web.jpg | true    | Test |
+---
+layout:     post
+title:      ReactiveObjC笔记
+date:       2020-03-08
+author:     Ash
+header-img: img/post-bg-ios9-web.jpg
+catalog: true
+tags:
+    - Test
+---
 
 
 
